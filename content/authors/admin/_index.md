@@ -51,8 +51,8 @@ skills:
       - name: Perl
         description: ''
         percent: 60
-        icon: perl
-        icon_pack: devicon
+        icon: p
+        icon_pack: fab
       - name: Python
         description: ''
         percent: 40
@@ -80,7 +80,7 @@ skills:
       - name: pet
         description: ''
         percent: 100
-        icon: Cat
+        icon: cat
         icon_pack: fas
       - name: travel
         description: ''
