@@ -10,7 +10,7 @@ first_name: Jiayue
 last_name: Ma
 
 # Status emoji
-status:😸
+status:
   icon:😸
 
 # Is this the primary user of the site?
